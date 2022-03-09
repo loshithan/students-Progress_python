@@ -1,0 +1,4 @@
+
+module_trailer : [100, 0, 20]
+module_trailer : [100, 20, 0]
+exclude : [20, 0, 100]
